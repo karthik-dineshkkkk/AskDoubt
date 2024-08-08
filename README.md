@@ -5,7 +5,7 @@ This VSCode extension allows you to make calls to Groqcloud for information on s
 ## Installation
 
 Install from VSCode Extensions panel 
-  Go to Settings > Extensions > AskDoubt
+  Go to 'Settings > Extensions > AskDoubt'
 
 
 ### Using The Extension
