@@ -1,6 +1,11 @@
 # ASKDOUBT- VSCode Extension for Copilot
 
-This VSCode extension allows you to make calls to Groqcloud for information on selected text in the editor. It adds GPT-related query options to the right-click menu. You will need to enter and securely store a Groqcloud API key.
+This VSCode extension allows you to make calls to GroqCloud to retrieve information related to the selected text in the editor.
+
+To get started, you’ll be prompted to enter your Groq API Key, which will be securely stored in VSCode.
+
+Refer to the usage instructions below for more details.
+
 
 ## Installation
 
