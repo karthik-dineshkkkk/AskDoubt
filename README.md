@@ -14,7 +14,7 @@ To use this extension, you will need an API key from GroqCloud. Follow the steps
 
 #### 1) Obtain an API Key:
 
-* [Visit the GroqCloud website](https://groqcloud.com).
+* [Visit the GroqCloud website](https://console.groq.com/docs/quickstart).
 * If you don’t have an account, create one or sign up using your Google account.
 * Once logged in, click the "Create New Secret Key" button.
 * Copy the generated API key.
